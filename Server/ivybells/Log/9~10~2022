@@ -1,0 +1,101 @@
+[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[test] list-agents[AGENT REGISTERED]	[d25724b7-f5f2-4e7e-a127-9eb99ad64338] registered on 2022-09-10 18:03:49.049965. Password->52466	Modifier=1
+[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[AGENT REGISTERED]	[d3dee795-f7b5-4e92-b7cf-772aaebae772] registered on 2022-09-10 20:05:42.787593. Password->226896	Modifier=3
+[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[AGENT REGISTERED]	[bfc5d817-ec85-4694-b22a-15df2a9f063b] registered on 2022-09-10 20:18:33.796622. Password->120766	Modifier=1
+[test] list-agents[AGENT REGISTERED]	[e3dfd323-24f3-445d-9b8f-60ae469794b4] registered on 2022-09-10 20:21:12.944399. Password->57923	Modifier=4
+[SIGN-IN SUCCESS]	test
+[AGENT REGISTERED]	[c423f413-f7da-4bc9-be40-afc303a50d7d] registered on 2022-09-10 20:21:22.365263. Password->157849	Modifier=4
+[test] list-agents[AGENT REGISTERED]	[baf3b59c-1590-4b0e-b4cd-1e945bc9386c] registered on 2022-09-10 20:26:49.613061. Password->14041	Modifier=1
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(baf3b59c-1590-4b0e-b4cd-1e945bc9386c)
+[AGENT REGISTERED]	[549f3f1d-a5fa-4d85-9ccd-252ea1d1ef82] registered on 2022-09-10 20:29:35.920367. Password->96847	Modifier=3
+[test] list-agents[AGENT REGISTERED]	[78b8fbf7-1637-4ad8-bdf7-c276a23f8e6a] registered on 2022-09-10 20:33:55.914434. Password->103557	Modifier=2
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(78b8fbf7-1637-4ad8-bdf7-c276a23f8e6a)
+[test] list-agents[test] list-agents[AGENT REGISTERED]	[2b57b806-c56c-4eea-b42c-76cf5a0b3791] registered on 2022-09-10 20:35:23.787140. Password->184845	Modifier=2
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(2b57b806-c56c-4eea-b42c-76cf5a0b3791)
+[AGENT REGISTERED]	[4ed6f537-7c96-44c1-a55f-b7ede6a25bc8] registered on 2022-09-10 20:37:10.858108. Password->221857	Modifier=4
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(4ed6f537-7c96-44c1-a55f-b7ede6a25bc8)
+[test] list-agents[AGENT REGISTERED]	[747f13a5-93ad-42d1-8572-d7d593dd76ba] registered on 2022-09-10 20:39:21.149810. Password->227243	Modifier=4
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(747f13a5-93ad-42d1-8572-d7d593dd76ba)
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[AGENT REGISTERED]	[6136ec02-827e-482d-9f5c-de9a26f27b5e] registered on 2022-09-11 00:00:37.876153. Password->87390	Modifier=1
+[AGENT REGISTERED]	[643cf794-ab03-4ee3-9e45-f95e5388ecfe] registered on 2022-09-11 00:04:12.128633. Password->7562	Modifier=2
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(643cf794-ab03-4ee3-9e45-f95e5388ecfe)
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[AGENT REGISTERED]	[cb27abe6-b6ad-4acc-8e0f-5616a15f0535] registered on 2022-09-11 00:07:59.122465. Password->118662	Modifier=2
+[test] list-agents[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[AGENT REGISTERED]	[7d4c5a49-1999-4787-a8d1-840bb4694b1f] registered on 2022-09-11 00:15:43.327119. Password->168708	Modifier=3
+[test] list-agents[test] list-agents[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(7d4c5a49-1999-4787-a8d1-840bb4694b1f)
+[test] list-agents[test] list-agents[test] list-agents[AGENT REGISTERED]	[6f1b0eb2-55d7-47c9-a837-4caae71fd68f] registered on 2022-09-11 00:18:44.667616. Password->167192	Modifier=4
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[AGENT REGISTERED]	[9385f3d2-e54f-4411-9008-a23cfe89bd7d] registered on 2022-09-11 00:21:10.635566. Password->83714	Modifier=2
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(9385f3d2-e54f-4411-9008-a23cfe89bd7d)
+[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-agents[test] list-agents[test] list-agents[AGENT REGISTERED]	[36423b0c-68df-4ba5-94f4-8e6a8552aa92] registered on 2022-09-11 00:45:52.984089. Password->101055	Modifier=2
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(36423b0c-68df-4ba5-94f4-8e6a8552aa92)
+[test] list-agents[test] list-tasks[AGENT REGISTERED]	[573ce6b6-0100-4271-8012-6fea5c5d3455] registered on 2022-09-11 00:47:20.519924. Password->19995	Modifier=1
+[AGENT REGISTERED]	[d23efe8c-d221-49ea-b77a-969b76408757] registered on 2022-09-11 00:51:43.761559. Password->221948	Modifier=3
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(d23efe8c-d221-49ea-b77a-969b76408757)
+[test] list-agents[AGENT REGISTERED]	[4b8a0996-1430-41a5-9acc-841180c4c349] registered on 2022-09-11 00:54:35.329571. Password->227261	Modifier=3
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(4b8a0996-1430-41a5-9acc-841180c4c349)
+[test] list-agents[test] list-agents[test] list-agents[AGENT REGISTERED]	[3a4a858a-1f34-45c2-9e7e-cd53be30ded2] registered on 2022-09-11 01:04:52.232843. Password->167528	Modifier=3
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(3a4a858a-1f34-45c2-9e7e-cd53be30ded2)
+[test] list-agents[AGENT REGISTERED]	[7931c68c-c8ca-4099-a65f-6ed4ed65bd06] registered on 2022-09-11 01:08:27.271604. Password->84031	Modifier=1
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(7931c68c-c8ca-4099-a65f-6ed4ed65bd06)
+[test] list-agents[AGENT REGISTERED]	[96dd5546-3d8f-4ef1-910c-fda31f4d176e] registered on 2022-09-11 01:17:28.386342. Password->249495	Modifier=1
+[SIGN-IN SUCCESS]	test
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(96dd5546-3d8f-4ef1-910c-fda31f4d176e)
+[test] list-agents[AGENT REGISTERED]	[91ab24d9-b2c1-41b3-8025-45d6470cb526] registered on 2022-09-11 01:21:17.222085. Password->16266	Modifier=4
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(91ab24d9-b2c1-41b3-8025-45d6470cb526)
+[test] list-agents[AGENT REGISTERED]	[05958625-ae6b-49fe-abba-9d20f916c9b5] registered on 2022-09-11 01:22:49.003026. Password->237001	Modifier=2
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(05958625-ae6b-49fe-abba-9d20f916c9b5)
+[test] list-agents[test] list-tasks[AGENT REGISTERED]	[6fc7c29f-d0a6-4d7a-9e06-fcd2fad4a1b2] registered on 2022-09-11 01:26:42.519319. Password->167119	Modifier=4
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(6fc7c29f-d0a6-4d7a-9e06-fcd2fad4a1b2)
+[test] list-agents[test] list-tasks[test] list-tasks[test] list-agents[test] list-agents[SIGN-IN SUCCESS]	test
+[test] list-tasks[AGENT REGISTERED]	[5814cc57-6130-4d3e-af20-69f41f509f94] registered on 2022-09-11 01:30:42.564329. Password->231567	Modifier=4
+[test] list-agentsPayload moduleTemplate retrieved by DESKTOP-EKPK5AH(5814cc57-6130-4d3e-af20-69f41f509f94)
+[test] list-agents[test] list-tasks
