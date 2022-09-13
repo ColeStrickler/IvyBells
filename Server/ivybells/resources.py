@@ -25,9 +25,13 @@ def create_defaultUser():
     super_user_password = str(sys.argv[2])
 
     super = Operator(name=super_user, password=hashlib.sha256(super_user_password.encode('utf-8')).hexdigest(), privs="super")
-    db.session.add(super)
-    db.session.commit()
+    try:
+        db.session.add(super)
+        db.session.commit()
+    except Exception:
+        pass
 ########################SUPER USER INITIALIZATION#################################
+
 
 
 

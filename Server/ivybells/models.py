@@ -1,7 +1,5 @@
 from datetime import datetime
 from ivybells import db
-import sys
-import hashlib
 try:
     class Operator(db.Model):
         __table_args__ = {'extend_existing': True}

@@ -1,4 +1,5 @@
-from ivybells import db, app
+import os
+from ivybells import db, app, create_defaultUser
 
 try:
     class Operator(db.Model):
@@ -12,10 +13,12 @@ try:
 except Exception as e:
     print(f"run operator fail\n{e}")
     pass
-
+try:
+    db.create_all()
+except Exception:
+    pass
 
 
 if __name__ == '__main__':
-    db.create_all()
-    app.run(debug=True, port=80)
-
+    port = int(os.environ.get('PORT', 80))
+    app.run(debug=False, host='0.0.0.0', port=port)

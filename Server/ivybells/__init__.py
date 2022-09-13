@@ -14,7 +14,7 @@ UPLOAD_FOLDER = ".\\route\\network\\binaryconfigmetadata"
 app = Flask(__name__)
 app.config['SECRET_KEY'] = '696969'
 #engine:[//[user[:password]@][host]/[dbname]]
-app.config['SQLALCHEMY_DATABASE_URI'] = "postgresql://postgres:6969@localhost/IB"
+app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:////ib.db"
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 app.secret_key = 'secret key'
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
@@ -41,6 +41,7 @@ except Exception as e:
     api.add_resource(OperatorEndpoint, "/op")
 
 try:
+    db.create_all()
     create_defaultUser()
 except Exception as e:
     pass
