@@ -240,10 +240,6 @@ void killProcess(std::string& contents, std::string pid) {
 
 int main() {
 
-	AllocConsole();
-	FILE* f;
-	freopen_s(&f, "CONOUT$", "w", stdout);
-
 
 
 	void* s_1Command = {0};
@@ -371,11 +367,6 @@ int main() {
 			current_task.args.pop_back();
 			std::string arg = current_task.args;
 			int num = atoi(&moduleNumber); // extract the correct buffer index
-			Sleep(3000);
-			printf("module num: %d\n", num);
-			printf("module number: %c\n", moduleNumber);
-			printf("function num: %c\n", func);
-			std::cout << "arg: " << arg << std::endl;
 			Sleep(3000);
 			void* commandBuf = modules.at(num);
 			void* argBuf = argBuffers.at(num);
