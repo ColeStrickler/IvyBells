@@ -10,6 +10,7 @@
 ## TO DO
 - Improve Operator client to make it more dynamic and have less one-off glitches
 - Improve logging verbosity and capabilities of server
+- Make use of docker compose to use a more scalable database
 - Increase enumeration information sent to server when agents first register with the server
 - Add reflective loading capabilities to implant DLL
 - Add self-destruct capabilities to implant 
