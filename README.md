@@ -13,6 +13,7 @@
 - Add reflective loading capabilities to implant DLL
 - Add self-destruct capabilities to implant 
 - Add process migration capabilities to implant
+- Add Sleep obfuscation technique
 - Add mechanism to obscure IOC DLLs in the PEB(libcurl.dll, netapi.dll)
 - Reduce number of strings by filling out the dynamicresolution.h structures to be used throughout the code
 - Add Download functionality
