@@ -1,6 +1,6 @@
 # IvyBells
 # A C2 Framework for operating within Windows environments
-- (alpha v0.1)
+- CurrentVersion=alpha v0.1
 - Name is inspired by covert Operation Ivy Bells -- > https://en.wikipedia.org/wiki/Operation_Ivy_Bells
 
 
