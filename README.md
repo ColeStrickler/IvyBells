@@ -35,6 +35,7 @@
 - View and kill processes, enumerate users, exfiltrate files, navigate the file system
 - Ability to integrate custom modules/DLLs at will that add commands and extend functionality
 - Hides reflectively loaded DLLs by loading a benign DLL, parsing the PEB, and changing where it points
+- Instrumentation of loaded modules via IPC
 
 ## Operator CLI client Features
 - Ability to register new modules and dynamically add features to implants
