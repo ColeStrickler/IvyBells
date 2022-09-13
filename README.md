@@ -3,6 +3,9 @@
 - CurrentVersion=alpha v0.1
 - Name is inspired by covert Operation Ivy Bells -- > https://en.wikipedia.org/wiki/Operation_Ivy_Bells
 
+## NOTICE
+- I plan to continually improve this framework and add new features over time. There is currently many bugs and the implants have limited functionality compared to commercial C2 frameworks
+
 
 ## TO DO
 - Improve Operator client to make it more dynamic and have less one-off glitches
@@ -15,7 +18,7 @@
 - Add Download functionality
 - Add the abilities to transfer files between the Operator Client and the server
 - Add modules that add capabilities
-- Make use of the Twilio API to integrate SMS capabilties with the server
+- Make use of the Twilio API to integrate SMS command and control capabilties with the server
 - Improve security of the server by adding API keys for the Operator Client and a randomized auth mechanism for the agents
 - Integrate a certificate for the server to be able to run HTTPS comms
 - Introduce an easy to modify config.h file that will be used for configuring agents before compilation
